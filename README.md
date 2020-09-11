@@ -8,12 +8,12 @@ http://54.188.51.218/
 
 1. Parent
    - Parent 1
-    - testparent1@gmail.com
-    - testpass123
+      - testparent1@gmail.com
+      - testpass123
 
    - Parent 2
-    - testparent2@gmail.com 
-    - testpass1546
+      - testparent2@gmail.com 
+      - testpass1546
 
 2. Team Manager / Coach
   - examplemanager@gmail.com
