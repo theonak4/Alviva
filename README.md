@@ -6,21 +6,23 @@ http://54.188.51.218/
 
 ### Demo Logins
 
-Parent:
-E - testparent1@gmail.com
-P - testpass123
+1. Parent
+   - Parent 1
+    - testparent1@gmail.com
+    - testpass123
 
-E - testparent2@gmail.com 
-P - testpass1546
+   - Parent 2
+    - testparent2@gmail.com 
+    - testpass1546
 
-Team Manager / Coach:
-E - examplemanager@gmail.com
-P - testpass123
+2. Team Manager / Coach
+  - examplemanager@gmail.com
+  - testpass123
 
-Referee:
-E - exampleref@gmail.com
-P - testpass123
+3. Referee
+  - exampleref@gmail.com
+  - testpass123
 
-Organizer:
-E - exampleorg@gmail.com
-P - testpass123
+4. Organizer
+  - exampleorg@gmail.com
+  - testpass123
